@@ -1,0 +1,1 @@
+# Configuracion-de-CPU-y-RAM
